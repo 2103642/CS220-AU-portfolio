@@ -4,15 +4,21 @@ Quick notes:
 
 ## Reflection on digital identities
 
-This writing briefly reflects on my understanding of
-
-- digital identities in general
-- my digital identities in the past/present
-- my digital identities in the future
+Throughout this essay, I will be exploring digital identitities, after which I aim to reflect on my understanding of my own digital identity in the past and present. I will also reflect on what I want my digital identity to be like in the future.  
 
 <br>
 
 ### Digital identities
+To understand digital identitues, I have explored White et al.'s "visitor and resident" concept (http://daveowhite.com/vandr/). 
+
+
+
+
+
+
+
+
+
 To help identify and improve my digital identities, I explored 
 - [White et al.'s Visitor and Resident (V&R) concept](http://daveowhite.com/vandr/) which 
   - says this and that as well as that
