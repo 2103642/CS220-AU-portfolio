@@ -1,7 +1,7 @@
 # CS220 AU portfolio
 ## Overview 
 ## Log 
-## Week 3 
+### Week 3 
 - created github account 
 - created repository 
 - 
