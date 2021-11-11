@@ -2,9 +2,18 @@
 ## Overview 
 ## Log 
 ### Week 3 
-- created github account 
-- created repository 
-- 
+- created github account and set up repository 
+- explored Github, so that I could understand how i can use it for my project. 
+
+### Week 4 
+
+### Week 5 
+
+### Week 6 
+
+### Week 7 
+
+
 ## TODO 
 ### di-identity 
 - research the V&R method
