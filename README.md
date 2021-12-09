@@ -26,3 +26,4 @@
 -  maybe change the colour theme of my website 
 -  remove "instagram" column from website 
 -  link my website in my GitHub 
+-  add quotes section to my website 
