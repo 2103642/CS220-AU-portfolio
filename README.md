@@ -4,27 +4,25 @@
 ### Week 3 
 - created github account and set up repository 
 - explored Github, so that I could understand how i can use it for my project. 
+- carried oput research into the V&R method 
+- created my present V&R map 
+- created my future V&R map 
+- importted my essay into Word, and wrote a first draft
+- received feedback opn my essay 
+- created a bio for my website
+- removed personal articles from my blog 
+- removed personal details from my website, such as name and my picture
 
-### Week 4 
-
-### Week 5 
-
-### Week 6 
-
-### Week 7 
 
 
 ## TODO 
 ### di-identity 
-- research the V&R method
-- create V&R maps 
-    - past VR map 
-    - current VR map 
-    - future VR map 
+- improved my essay using the feedback i received from Krisztian
 - 
 ### website 
-- remove "What do you do when your role model considers you a lost cause?" post from website 
-- change the "About" section with a description of what the blog is about instead
--  remove personal details like name, personal description, and picture. 
+-  import pictures 
+-  write 2 blog posts for the blog 
+-  
+-  
 - 
 - 
