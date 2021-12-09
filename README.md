@@ -27,3 +27,4 @@
 -  remove "instagram" column from website 
 -  link my website in my GitHub 
 -  add quotes section to my website 
+-  blog post: somehow contextualise research methods to the theme of the website. 
