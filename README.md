@@ -1,5 +1,7 @@
 # CS220 AU portfolio
 ## Overview 
+
+
 ## Log 
 - created github account and set up repository 
 - explored Github, so that I could understand how i can use it for my project. 
