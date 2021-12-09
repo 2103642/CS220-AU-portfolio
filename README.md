@@ -17,11 +17,8 @@
 ## TODO 
 ### di-identity 
 - improved my essay using the feedback i received from Krisztian
-- 
-### website 
--  import pictures 
+- run essay through Grammarly 
+- run website bio through Grammarly 
+-  import pictures on website 
 -  write 2 blog posts for the blog 
--  
--  
-- 
-- 
+-  maybe change the colour theme of my website 
