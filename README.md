@@ -22,3 +22,5 @@
 -  import pictures on website 
 -  write 2 blog posts for the blog 
 -  maybe change the colour theme of my website 
+-  remove "instagram" column from website 
+-  
