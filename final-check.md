@@ -18,10 +18,10 @@ I used the `index.md` file
 - [ ] I provided a URL to my website in my repository's sidebar
 
 ### DI Reflection
-- [ ] I wrote my reflection on digital identities focusing on developing my own digital identities 
-- [ ] I used Chicago style referencing
+- [x] I wrote my reflection on digital identities focusing on developing my own digital identities 
+- [x] I used Chicago style referencing
 - [ ] I converted my file into a PDF and renamed it to reflect my student number e.g. '0610279-di-reflection.PDF' 
-- [ ] I understand that this reflection could also be added to my website using the `di-reflection.md` file if I feel that its content is safe for public dissemination
+- [x] I understand that this reflection could also be added to my website using the `di-reflection.md` file if I feel that its content is safe for public dissemination
 
 ### Self- and peer-assessment
 In the `assessement.md` file I
@@ -30,7 +30,7 @@ In the `assessement.md` file I
 - [ ] filled in the peer-assessment tables for which one student in my CS220 group provided feedback for
 - [ ] familiarised myself with the marking rubric and provided feedback for one students in my CS220 group
 
-The student number of the student I provided feedback with is: <!-- #todo : add your classmate's student number -->  
+The student number of the student I provided feedback with is: 2103461 <!-- #todo : add your classmate's student number -->  
 
 <!-- #todo : 
 - delete all unnecessary HTML comments in this file 
