@@ -67,4 +67,5 @@ The final component of my portfolio is this overview, which contains a detailed 
 -  maybe first blog for the website - Life's too short... 
 -  proof read entire portfolio 
 -  Have Sam peer assess my portfolio. 
+-  self assessment 
 -  
