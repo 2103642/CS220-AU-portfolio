@@ -70,3 +70,7 @@ The final component of my portfolio is this overview, which contains a detailed 
 -  self assessment 
 -  improve essay and overview references 
 -  import images to GitHub 
+-  organise to do list into de-identity and website sections 
+-  send kris extenstion request for essay word count 
+-  reorganise log most recent at the top 
+-  
