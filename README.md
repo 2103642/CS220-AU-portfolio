@@ -12,28 +12,47 @@ The final component of my portfolio is this overview, which contains a detailed 
 
 
 ## Log 
-- created github account and set up repository 
-- explored Github, so that I could understand how i can use it for my project. 
-- carried oput research into the V&R method 
+- created github account and set up repository. 
+- familiarised myself with GitHub features. 
+- explored Github and how to effectively use it for my project.
+- carried oput research into the V&R method. 
+- Watched videos about the V&R mapping concept. 
+- brainstormed about ideas for the website.
+- Set up a meeting with Krisztian to discuss whetehr i should create a brand new website within GitHub or to use a website that was previously created. 
+- Decided to use my website that was already created before enroling on this module. 
+- Brainstormed about hwo I want to transdorm my website. 
+- Brainstomeed about the possible themes for the website. 
+- Set up a meeting with Krisztian to talk about possible themes for the website. 
+- Established my blog's theme, and what kind of articles I should write. 
 - created my present V&R map 
 - created my future V&R map 
-- importted my essay into Word, and wrote a first draft
-- received feedback opn my essay 
-- created a bio for my website
-- removed personal articles from my blog 
+- Started writing an essay draft in Word.
+- When essay draft was completed, I sent it to Kristztian for feedback. 
+- Decided on a partner for my peer assessment component of my portfolio. 
+- Reviewed feedback received from Krisztian for my essay. 
+- Re-wrote and improved my essay beased on the feedback i have received. 
+- I created a draft for the bio for my blog. 
+- Ran blog's bio through Grammarly. 
+- Published blog's bio on the website. 
 - removed personal details from my website, such as name and my picture
+- removed already published (personal) articles from my blog.  
+- Brainestormed about more article ideas. 
+- Wrote an overview for the portfolio. 
+- Ran my portfolio overview trhrough Grammarly, and added it to GitHub. 
+- removed "instagram", "contact", and "about me" section from website. 
+- linked my website to my GitHub repository. 
 
 
 
 ## TODO 
 ### di-identity 
-- improved my essay using the feedback i received from Krisztian
-- run essay through Grammarly 
-- run website bio through Grammarly 
 -  import pictures on website 
--  write 2 blog posts for the blog 
--  maybe change the colour theme of my website 
--  remove "instagram" column from website 
--  link my website in my GitHub 
+-  write at least two blog aricles for publishing. 
+-  maybe change the colour theme of my website. 
 -  add quotes section to my website 
 -  blog post: somehow contextualise research methods to the theme of the website. 
+-  Finish writing the aricle about values.
+-  Run my essay through Grammarly. 
+-  Add my essay to the GitHub page.
+-  create quotes pictures. 
+-  maybe first blog for the website - Life's too short... 
