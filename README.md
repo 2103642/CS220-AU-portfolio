@@ -68,4 +68,4 @@ The final component of my portfolio is this overview, which contains a detailed 
 -  proof read entire portfolio 
 -  Have Sam peer assess my portfolio. 
 -  self assessment 
--  
+-  improve essay and overview references 
