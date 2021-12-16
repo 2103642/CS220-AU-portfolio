@@ -12,25 +12,32 @@ The final component of my portfolio is this overview, which contains a detailed 
 
 
 ## Log 
+- 14/10/2021: Attended CS220 seminar. 
 - created github account and set up repository. 
 - familiarised myself with GitHub features. 
 - explored Github and how to effectively use it for my project.
+- 21/10/2021: Attended CS220 seminar.
 - carried oput research into the V&R method. 
 - Watched videos about the V&R mapping concept. 
 - brainstormed about ideas for the website.
-- Set up a meeting with Krisztian to discuss whetehr i should create a brand new website within GitHub or to use a website that was previously created. 
+- 28/10/2021: Attended CS220 seminar.
+- Set up a meeting with Krisztian to discuss whether i should create a brand new website within GitHub or to use a website that was previously created. 
 - Decided to use my website that was already created before enroling on this module. 
 - Brainstormed about hwo I want to transdorm my website. 
-- Brainstomeed about the possible themes for the website. 
+- Brainstomeed about the possible themes for the website.
+- 04/11/2021: Attended CS220 seminar.
 - Set up a meeting with Krisztian to talk about possible themes for the website. 
 - Established my blog's theme, and what kind of articles I should write. 
+- 11/11/2021: Attended CS220 seminar.
 - created my present V&R map 
 - created my future V&R map 
 - Started writing an essay draft in Word.
 - When essay draft was completed, I sent it to Kristztian for feedback. 
 - Decided on a partner for my peer assessment component of my portfolio. 
+- 18/11/2021: Attended CS220 seminar.
 - Reviewed feedback received from Krisztian for my essay. 
 - Re-wrote and improved my essay beased on the feedback i have received. 
+- 09/12/2021: Attended CS220 seminar.
 - I created a draft for the bio for my blog. 
 - Ran blog's bio through Grammarly. 
 - Published blog's bio on the website. 
@@ -41,6 +48,8 @@ The final component of my portfolio is this overview, which contains a detailed 
 - Ran my portfolio overview trhrough Grammarly, and added it to GitHub. 
 - removed "instagram", "contact", and "about me" section from website. 
 - linked my website to my GitHub repository. 
+- 16/12/2021: Attended CS220 seminar.
+
 
 
 
@@ -56,3 +65,6 @@ The final component of my portfolio is this overview, which contains a detailed 
 -  Add my essay to the GitHub page.
 -  create quotes pictures. 
 -  maybe first blog for the website - Life's too short... 
+-  proof read entire portfolio 
+-  Have Sam peer assess my portfolio. 
+-  
