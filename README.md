@@ -19,59 +19,45 @@ lastly, as stated abvove, the fourth component of my portfolio is this overwiew,
 ### Week 9 
 
 ### Week 8 
-
+- I created a draft for the bio for my blog. 
+- Ran blog's bio through Grammarly. 
+- Published blog's bio onto the website
+- removed personal details from my website, such as name and my picture
+- removed already published (personal) articles from my blog.  
+- Brainestormed about more article ideas. 
+- Wrote an overview for the portfolio. 
+- Ran my portfolio overview trhrough Grammarly, and added it to GitHub. 
+- removed "instagram", "contact", and "about me" section from website. 
+- linked my website to my GitHub repository. 
 ### Week 7
-
+- reviewed feedback received from Krisztian for my essay. 
+- re-wrote and improved my essay beased on the feedback i have received. 
 ### Week 6 
-
+- attended CS220 seminar.
+- created my present V&R map 
+- created my future V&R map 
+- Started writing an essay draft in Word.
+- When essay draft was completed, I sent it to Kristztian for feedback. 
+- Decided on a partner for my peer assessment component of my portfolio. 
 ### Week 5 
-
+- attended CS220 seminar.
+- set up a meeting with Krisztian to talk about possible themes for the website. 
+- established my blog's theme, and what kind of articles I should write. 
 ### Week 4
-
+- attended CS220 seminar.
+- set up a meeting with Krisztian to discuss whether i should create a brand new website within GitHub or to use a website that was previously created. 
+- Decided to use my website that was already created before enroling on this module. 
+- Brainstomeed about the possible themes for the website.
 ### Week 3 
-
+- attended CS220 seminar.
+- carried oput research into the V&R method. 
+- watched videos about the V&R mapping concept. 
+- brainstormed about ideas for the website.
 ### Week 2 
 - attended CS220 seminar. 
 - created github account and set up repository. 
 - familiarised myself with GitHub features. 
-- explored Github and how to effectively use it for my project. 
-
-- 21/10/2021: Attended CS220 seminar.
-- 21/10/2021: carried oput research into the V&R method. 
-- 21/10/2021: Watched videos about the V&R mapping concept. 
-- 21/10/2021: brainstormed about ideas for the website.
-- 28/10/2021: Attended CS220 seminar.
-- 28/10/2021: Set up a meeting with Krisztian to discuss whether i should create a brand new website within GitHub or to use a website that was previously created. 
-- 28/10/2021: Decided to use my website that was already created before enroling on this module. 
-- 28/10/2021: Brainstormed about hwo I want to transdorm my website. 
-- 28/10/2021: Brainstomeed about the possible themes for the website.
-- 04/11/2021: Attended CS220 seminar.
-- 04/11/2021: Set up a meeting with Krisztian to talk about possible themes for the website. 
-- 04/11/2021: Established my blog's theme, and what kind of articles I should write. 
-- 11/11/2021: Attended CS220 seminar.
-- 11/11/2021: created my present V&R map 
-- 11/11/2021: created my future V&R map 
-- 11/11/2021: Started writing an essay draft in Word.
-- 11/11/2021: When essay draft was completed, I sent it to Kristztian for feedback. 
-- 11/11/2021: Decided on a partner for my peer assessment component of my portfolio. 
-- 18/11/2021: Attended CS220 seminar.
-- 11/11/2021: Reviewed feedback received from Krisztian for my essay. 
-- 11/11/2021: Re-wrote and improved my essay beased on the feedback i have received. 
-- 09/12/2021: Attended CS220 seminar.
-- 09/12/2021: I created a draft for the bio for my blog. 
-- 09/12/2021: Ran blog's bio through Grammarly. 
-- 09/12/2021: Published blog's bio on the website. 
-- 09/12/2021: removed personal details from my website, such as name and my picture
-- 09/12/2021: removed already published (personal) articles from my blog.  
-- 09/12/2021: Brainestormed about more article ideas. 
-- 09/12/2021: Wrote an overview for the portfolio. 
-- 09/12/2021: Ran my portfolio overview trhrough Grammarly, and added it to GitHub. 
-- 09/12/2021: removed "instagram", "contact", and "about me" section from website. 
-- 09/12/2021: linked my website to my GitHub repository. 
-- 16/12/2021: Attended CS220 seminar.
-
-
-
+- explored Github and how to effectively use it for my project.  
 
 ## TODO 
 ### di-identity 
@@ -84,7 +70,6 @@ lastly, as stated abvove, the fourth component of my portfolio is this overwiew,
 -  Run my essay through Grammarly. 
 -  Add my essay to the GitHub page.
 -  create quotes pictures. 
--  maybe first blog for the website - Life's too short... 
 -  proof read entire portfolio 
 -  Have Sam peer assess my portfolio. 
 -  self assessment 
@@ -95,4 +80,11 @@ lastly, as stated abvove, the fourth component of my portfolio is this overwiew,
 -  reorganise log most recent at the top 
 
 ### website 
+- import pictures on website 
+- write 1 blog article about values ready to publish 
+- write at least 1 more article ready to publish 
+- add quotes section onto my website 
+- change colour theme for my website? 
+- quotes pictures 
+- LTS first blog post? 
 - 
