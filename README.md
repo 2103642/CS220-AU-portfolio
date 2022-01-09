@@ -61,30 +61,31 @@ lastly, as stated abvove, the fourth component of my portfolio is this overwiew,
 
 ## TODO 
 ### di-identity 
--  import pictures on website 
--  write at least two blog aricles for publishing. 
--  maybe change the colour theme of my website. 
--  add quotes section to my website 
--  blog post: somehow contextualise research methods to the theme of the website. 
--  Finish writing the aricle about values.
 -  Run my essay through Grammarly. 
 -  Add my essay to the GitHub page.
--  create quotes pictures. 
 -  proof read entire portfolio 
--  Have Sam peer assess my portfolio. 
 -  self assessment 
 -  improve essay and overview references 
 -  import images to GitHub 
+
+
+-  write at least two blog aricles for publishing. 
+-  Have Sam peer assess my portfolio. 
 -  organise to do list into de-identity and website sections 
 -  send kris extenstion request for essay word count 
 -  reorganise log most recent at the top 
 
+
+
+
 ### website 
-- import pictures on website 
-- write 1 blog article about values ready to publish 
-- write at least 1 more article ready to publish 
+- import quotes pictures on website 
 - add quotes section onto my website 
 - change colour theme for my website? 
-- quotes pictures 
 - LTS first blog post? 
-- 
+- blog post: somehow contextualise research methods to the theme of the website. 
+- Finish writing the aricle about values.
+
+- write 1 blog article about values ready to publish 
+
+
