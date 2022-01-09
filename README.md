@@ -63,7 +63,6 @@ lastly, as stated abvove, the fourth component of my portfolio is this overwiew,
 ### di-identity 
 -  Add my essay to the GitHub page.
 -  proof read entire portfolio 
--  self assessment 
 -  improve essay and overview references 
 -  import images to GitHub
 -  add log entried for week 9,10,11.  
@@ -75,6 +74,8 @@ lastly, as stated abvove, the fourth component of my portfolio is this overwiew,
 -  send kris extenstion request for essay word count 
 -  reorganise log most recent at the top 
 -  Run my essay through Grammarly. 
+-  self assessment 
+
 
 
 
