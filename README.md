@@ -1,21 +1,41 @@
 # CS220 AU portfolio
 ## Overview 
-This portfolio will explore four different components of my CS220 assignment. Firstly, I will review the first component of my portfolio, my website and what I envision it to be. The second component of my portfolio is also a reflective essay where I analyse my engagement with the Web using White et al.'s (2013) model of digital identities. Lastly, I will also touch on a self and peer assessment that examines the overall success of developing my portfolio. 
+This portfolio contains 4 different components for my CS220 assignment. The first component being my website and what I envision it to be. The second component of my portfolio is a reflective essay where I analyse my engagement with the Web using White et al.'s (2013) model of digital identities. I will also touch on a self and peer assessment that examines the overall success of developing my portfolio. The last component of my portfolio is this outline, an overall explanation of my entire portfolio. 
 
-To begin with, the first component of my portfolio is my website, as stated above. In early 2021 (March), I have created my website, a blog called Fierce Muse. Initially, I wanted my blog to be a space to share personal experiences and inspire others. The themes of my blog at the time were self-improvement, spirituality, and mental health. After posting two blog articles, I haven’t focused and invested much of my time into this blog and stopped attempting to create and develop Fierce Muse. I wanted to revisit this project and transform it entirely for this assignment. Since early 2021, over a period of 7 months, my vision for Fierce Muse has changed, and I now want to transform it into something completely different. I now want my blog to be less about my personal experiences and more about helping others with their self-improvement goals. Therefore, I have removed any references to personal experiences from my website. Instead, I have posted blog articles that intend to help and guide others to learn more about themselves and grow by improving themselves, as the theme of my website is now self-improvement. I have used WIX, a web content management system, to build this website. I have decided to use this software as initially, my website was created using this software, and therefore it meant that I was already familiar with its functions and features. 
+To begin with, as stated above, my website is my first component of the portfolio. Early 2021 (March), I have created a website which turned into my blog, Fierce Muse. Initially, I wanted my blog to be a space where I could share personal experiences and inspire others. The themes of my blog at the time were self-improvement, spirituality, and mental health. After posting a few blog articles, I haven’t focused and invested much of my time into this blog and stopped attempting to create and develop Fierce Muse. I wanted to revisit this project and transform it entirely for this assignment. Since early 2021, over a period of almost a year, my vision for Fierce Muse has changed, and I wanted to transform it into something completely different. I want my blog to be less about my personal experiences and more about helping others with their self-improvement goals and journeys. Therefore, I have removed any references to personal experiences from my website, and instead, I have posted blog articles that intend to help and guide others to learn more about themselves and grow by improving themselves, as the overall theme of my website is now self-improvement. To create my website, I have used WIX, a web content management system, and I decided to use this software as part of the assignment because initially, my website was created using this software, and therefore it meant that I was already familiar with its functions and features. 
 
-The second component of my portfolio is my reflective essay, which explains the development of my digital identity. It explores how digital identity is measured based on concepts established by White et al. It also analyses my engagement with the Web and how I would like this to change in the future. Embedded throughout my essay, I have presented two "visitor and resident" maps, which explore how I engage with the Web personally and institutionally as a resident or visitor. These maps reflect my current engagement with the Web and how I expect engagement to alter with time, shifting towards a professional resident identity. 
+The second component of my portfolio is my reflective essay, which explains the development of my digital identity. It explores how digital identity is measured based on concepts established by White et al., and it also analyses my engagement with the Web and how I would like this to change in the future.
 
-The third component of my portfolio is a peer assessment and self-assessment. My entire portfolio will be peer assessed by … , examining my portfolio's success based on pre-determined criteria. (Insert how Sam's review helped me improve my work). 
+The third component of my portfolio is a peer assessment and self-assessment. My entire portfolio has been peer assessed by 2103461, who has examined the first and second component of my portfolio and had provided feedback fo rme to improve my work ahead of the assignment deadline.
 
-The final component of my portfolio is this overview, which contains a detailed to-do list and log of all activities and steps taken towards completing this portfolio and assignment. This should include activities throughout the autumn term from week three to eleven, highlighting project management skills. The to-do list and log are complimented by the above descriptions of each component of the portfolio in-depth, providing a clear outline for this portfolio. 
+lastly, as stated abvove, the fourth component of my portfolio is this overwiew, where i expalin the development of my portfolio and present a detailed to-do list for both my website and essay. The to-do list and log are complimented by the above descriptions of each component of the portfolio in-depth, providing a clear outline.  
 
 
 ## Log 
-- 14/10/2021: Attended CS220 seminar. 
-- 14/10/2021: created github account and set up repository. 
-- 14/10/2021: familiarised myself with GitHub features. 
-- 14/10/2021: explored Github and how to effectively use it for my project.
+### Week 11 
+
+### Week 10 
+
+### Week 9 
+
+### Week 8 
+
+### Week 7
+
+### Week 6 
+
+### Week 5 
+
+### Week 4
+
+### Week 3 
+
+### Week 2 
+- attended CS220 seminar. 
+- created github account and set up repository. 
+- familiarised myself with GitHub features. 
+- explored Github and how to effectively use it for my project. 
+
 - 21/10/2021: Attended CS220 seminar.
 - 21/10/2021: carried oput research into the V&R method. 
 - 21/10/2021: Watched videos about the V&R mapping concept. 
@@ -73,4 +93,6 @@ The final component of my portfolio is this overview, which contains a detailed 
 -  organise to do list into de-identity and website sections 
 -  send kris extenstion request for essay word count 
 -  reorganise log most recent at the top 
--  
+
+### website 
+- 
