@@ -13,59 +13,53 @@ lastly, as stated abvove, the fourth component of my portfolio is this overwiew,
 
 ## Log 
 ### Week 11 
-
+- I have published my "welcome" post 
+- I have publised my "Life's too short to give up on your dreams" article. 
 ### Week 10 
-
+- I have reveiwed my overwiew and tried to make it shorter. 
 ### Week 9 
-
+- I have decided that I do not want to have a bio for my website but intead I wanted a "Welcome" post. 
+- I have given feedback to my partner about what he has done well and how he could improve his work. 
 ### Week 8 
-- I created a draft for the bio for my blog. 
-- Ran blog's bio through Grammarly. 
-- Published blog's bio onto the website
-- removed personal details from my website, such as name and my picture
-- removed already published (personal) articles from my blog.  
-- Brainestormed about more article ideas. 
-- Wrote an overview for the portfolio. 
-- Ran my portfolio overview trhrough Grammarly, and added it to GitHub. 
-- removed "instagram", "contact", and "about me" section from website. 
-- linked my website to my GitHub repository. 
+- I have created a draft for the bio for my blog. 
+- I ran blog's bio through Grammarly. 
+- I published blog's bio onto the website
+- I removed personal details from my website, such as name and my picture.
+- I removed already published (personal) articles from my blog.  
+- I brainestormed about more article ideas. 
+- I wrote an overview for the portfolio. 
+- I ran my portfolio overview through Grammarly, and added it to GitHub. 
+- I removed "instagram", "contact", and "about me" section from website. 
+- I linked my website to my GitHub repository. 
 ### Week 7
-- reviewed feedback received from Krisztian for my essay. 
-- re-wrote and improved my essay beased on the feedback i have received. 
+- I reviewed feedback received from Krisztian for my essay. 
+- I re-wrote and improved my essay beased on the feedback I have received. 
 ### Week 6 
-- attended CS220 seminar.
-- created my present V&R map 
-- created my future V&R map 
-- Started writing an essay draft in Word.
-- When essay draft was completed, I sent it to Kristztian for feedback. 
-- Decided on a partner for my peer assessment component of my portfolio. 
+- I created my present V&R map 
+- I created my future V&R map 
+- I started writing an essay draft in Word.
+- I sent my first essay draft to Kristztian for feedback. 
+- I decided on a partner for my peer assessment component of my portfolio. 
 ### Week 5 
-- attended CS220 seminar.
-- set up a meeting with Krisztian to talk about possible themes for the website. 
-- established my blog's theme, and what kind of articles I should write. 
+- I set up a meeting with Krisztian to talk about possible themes for the website. 
+- I established my blog's theme, and what kind of articles I should write. 
 ### Week 4
-- attended CS220 seminar.
-- set up a meeting with Krisztian to discuss whether i should create a brand new website within GitHub or to use a website that was previously created. 
-- Decided to use my website that was already created before enroling on this module. 
-- Brainstomeed about the possible themes for the website.
+- I set up a meeting with Krisztian to discuss whether I should create a brand new website within GitHub or to use a website that was previously created. 
+- I decided to use my website that was already created before enroling on this module. 
+- I brainstormed about the possible themes for the website and what I want totransform it into.
 ### Week 3 
-- attended CS220 seminar.
-- carried oput research into the V&R method. 
-- watched videos about the V&R mapping concept. 
-- brainstormed about ideas for the website.
+- I carried out research into the V&R method. 
+- I watched videos about the V&R mapping concept. 
+- I brainstormed about ideas for the website.
 ### Week 2 
-- attended CS220 seminar. 
-- created github account and set up repository. 
-- familiarised myself with GitHub features. 
-- explored Github and how to effectively use it for my project.  
+- I created github account and set up repository. 
+- I familiarised myself with GitHub features. 
+- I explored Github and how to effectively use it for my project.  
 
 ## TODO 
 ### di-identity 
--  Add my essay to the GitHub page.
 -  proof read entire portfolio 
 -  improve essay and overview references 
--  import images to GitHub
--  add log entried for week 9,10,11.  
 
 
 -  write at least two blog aricles for publishing. 
@@ -75,6 +69,10 @@ lastly, as stated abvove, the fourth component of my portfolio is this overwiew,
 -  reorganise log most recent at the top 
 -  Run my essay through Grammarly. 
 -  self assessment 
+-  Add my essay to the GitHub page.
+-  import images to GitHub
+
+
 
 
 
