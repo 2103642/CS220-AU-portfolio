@@ -16,7 +16,7 @@ I used the `index.md` file
 
 ### DI Reflection
 - [x] I wrote my reflection on digital identities focusing on developing my own digital identities 
-- [x] I used Chicago style referencing
+- [x] I used Harvard style referencing
 - [x] I converted my file into a PDF and renamed it to reflect my student number e.g. '0610279-di-reflection.PDF' 
 - [x] I understand that this reflection could also be added to my website using the `di-reflection.md` file if I feel that its content is safe for public dissemination
 
